@@ -1,4 +1,4 @@
-# Find Movies Project
+# Find Movies Project k
 
 Application that allows users to search for movies and TV series.
 
